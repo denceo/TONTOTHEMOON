@@ -1,0 +1,4 @@
+allow ssh
+allow http & https
+
+22 & 443 
