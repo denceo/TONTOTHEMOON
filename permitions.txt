@@ -1,0 +1,3 @@
+frontend files (HTML, CSS and JavaScript files) do not have an access to backend files.
++
+read, write, execute, change permissions, read and write directories. 
